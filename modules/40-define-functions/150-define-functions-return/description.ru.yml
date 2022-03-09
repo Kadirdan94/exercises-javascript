@@ -93,3 +93,8 @@ instructions: |
   ```
 
 # tips: []
+48 урок не работает песочница, вставил решение учителя, но все равно выдает ошибку
+
+const getRandomNumber = () => {
+  return Math.round(Math.random() * 10);
+};
